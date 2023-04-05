@@ -1,4 +1,4 @@
 Hola, buenos días, soy Cesar y esta es mi primera linea.
 Hola, soy Desarrollador Java y es mi segunda linea.
 Hola, es mi tercera linea.
-Se rompió la Rama Master.
+Se solucionó el conflicto de la Rama Master.
